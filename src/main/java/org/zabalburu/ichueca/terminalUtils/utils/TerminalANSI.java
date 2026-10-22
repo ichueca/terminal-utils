@@ -1,11 +1,9 @@
 package org.zabalburu.ichueca.terminalUtils.utils;
 
-package org.zabalburu.util;
-
 public final class TerminalANSI {
 
     // Constructor privado para evitar que se instancie la clase
-    private Terminal() {}
+    private TerminalANSI() {}
 
     // ==========================================
     // 1. CONTROL DE PANTALLA Y BORRADO
