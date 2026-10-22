@@ -71,6 +71,12 @@ MacOS:
 brew install chafa
 ```
 
+Windows (Powershell):
+
+```powershell
+winget install hpjansson.Chafa  --source winget
+```
+
 Comprobar instalación:
 
 ```bash
